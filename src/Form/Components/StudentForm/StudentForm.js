@@ -84,7 +84,7 @@ class StudentForm extends Component {
     this.setState({
       values: {
         ...this.state.values,
-        [name]: value.trim(),
+        [name]: value,
       },
     });
 
