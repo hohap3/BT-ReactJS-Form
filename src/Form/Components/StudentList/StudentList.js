@@ -28,7 +28,7 @@ class StudentList extends Component {
           <thead className="bg-dark text-white">
             <tr>
               <th>Mã SV</th>
-              <th>Họ tên</th>
+              <th>Họ và tên</th>
               <th>Số điện thoại</th>
               <th>Email</th>
               <th>Hành động</th>
